@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/piyush-sri/Website Clone">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="header.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Sarkari Result Website Clone Using Only HTML. </h3>
