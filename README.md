@@ -40,9 +40,9 @@
 
 ## About The Project
 
-![Screen Shot](images/ss2.png)
-![Screen Shot](images/ss3.png)
-![Screen Shot](images/ss1.png)
+![Screen Shot](ss2.png)
+![Screen Shot](ss3.png)
+![Screen Shot](ss1.png)
 
 
 
